@@ -1,9 +1,10 @@
 # Click The Heart!
 
-#Preview
-![Click The Heart Screenshot](prev.png)
-#Live Demo
+## Preview
 
+![Click The Heart Screenshot](prev.png)
+
+## Live Demo
 
 A fun interactive website where users can click on a heart to see a magical animation. This project demonstrates the use of HTML, CSS, and JavaScript to create a visually appealing and responsive design.
 
