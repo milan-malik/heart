@@ -7,7 +7,7 @@
 A fun interactive website where users can click on a heart to see a magical animation. This project demonstrates the use of HTML, CSS, and JavaScript to create a visually appealing and responsive design.
 
 ## Live Demo
-
+https://milan-malik.github.io/heart/
 
 ## Features
 - **Interactive Design**: Click the gray heart to reveal the red heart with an animated "pop" effect.
